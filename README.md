@@ -58,13 +58,7 @@
   </a>
 </p>
 
-## 🔥 Streak Stats
 
-<p align="center">
-  <a href="https://github.com/deymonster">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=deymonster&theme=tokyonight" alt="GitHub Streak Stats"/>
-  </a>
-</p>
 
 ## 📈 Contribution Graph
 
