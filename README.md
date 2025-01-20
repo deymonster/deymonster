@@ -17,7 +17,7 @@
 
 ### Frontend Development
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
-![Next.js](https://img.shields.io/badge/-Next.js%2014-05122A?style=flat&logo=next.js)&nbsp;
+![Next.js](https://img.shields.io/badge/-Next.js%2015-05122A?style=flat&logo=next.js)&nbsp;
 ![React Native](https://img.shields.io/badge/-React%20Native-05122A?style=flat&logo=react)&nbsp;
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
@@ -49,6 +49,31 @@
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=deymonster&layout=compact&langs_count=8&theme=tokyonight"/>
 </a>
 </p>
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <a href="https://github.com/deymonster">
+    <img src="https://github-profile-trophy.vercel.app/?username=deymonster&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4" alt="GitHub Trophies"/>
+  </a>
+</p>
+
+## 🔥 Streak Stats
+
+<p align="center">
+  <a href="https://github.com/deymonster">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=deymonster&theme=tokyonight" alt="GitHub Streak Stats"/>
+  </a>
+</p>
+
+## 📈 Contribution Graph
+
+<p align="center">
+  <a href="https://github.com/deymonster">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=deymonster&theme=tokyo-night" alt="GitHub Contribution Graph"/>
+  </a>
+</p>
+
 
 ## 🤝🏻 Connect with Me
 
