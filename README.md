@@ -15,18 +15,20 @@
 
 ## 🛠 Tech Stack
 
+### Backend Development
+![FastAPI](https://img.shields.io/badge/-FastAPI-05122A?style=flat&logo=fastapi)&nbsp;
+![Django](https://img.shields.io/badge/-Django-05122A?style=flat&logo=django&logoColor=092E20)&nbsp;
+![DRF](https://img.shields.io/badge/-Django%20REST-05122A?style=flat&logo=django&logoColor=092E20)&nbsp;
+
 ### Frontend Development
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 ![Next.js](https://img.shields.io/badge/-Next.js%2015-05122A?style=flat&logo=next.js)&nbsp;
 ![React Native](https://img.shields.io/badge/-React%20Native-05122A?style=flat&logo=react)&nbsp;
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
+![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=flat&logo=Prisma)&nbsp;
 
-### Backend Development
-![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
-![Django](https://img.shields.io/badge/-Django-05122A?style=flat&logo=django&logoColor=092E20)&nbsp;
-![DRF](https://img.shields.io/badge/-Django%20REST-05122A?style=flat&logo=django&logoColor=092E20)&nbsp;
-![FastAPI](https://img.shields.io/badge/-FastAPI-05122A?style=flat&logo=fastapi)&nbsp;
+
 
 ### Database & Tools
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-05122A?style=flat&logo=postgresql)&nbsp;
