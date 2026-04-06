@@ -1,88 +1,80 @@
-<img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Hand%20Wave.gif" width='80' align="left"/>
-
-# Hey there! I'm Popov Dmitriy 👋
-
-<br>
-
-## 👨🏻‍💻 About Me
-
-💡 I like to take on challenging tasks and learn cutting-edge technologies\
-🎯 Passionate about creating efficient and scalable web solutions\
-🧡 Specialized in full-stack web development with a focus on modern frameworks\
-🚀 Always exploring new technologies and best practices in software development
-
-<img alt="Night Coding" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" align="right" height="220"/>
-
-## 🛠 Tech Stack
-
-### Backend Development
-![FastAPI](https://img.shields.io/badge/-FastAPI-05122A?style=flat&logo=fastapi)&nbsp;
-![Django](https://img.shields.io/badge/-Django-05122A?style=flat&logo=django&logoColor=092E20)&nbsp;
-![DRF](https://img.shields.io/badge/-Django%20REST-05122A?style=flat&logo=django&logoColor=092E20)&nbsp;
-
-### Frontend Development
-![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
-![Next.js](https://img.shields.io/badge/-Next.js%2015-05122A?style=flat&logo=next.js)&nbsp;
-![React Native](https://img.shields.io/badge/-React%20Native-05122A?style=flat&logo=react)&nbsp;
-![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
-![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=flat&logo=Prisma)&nbsp;
-
-
-
-### Database & Tools
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-05122A?style=flat&logo=postgresql)&nbsp;
-![Docker](https://img.shields.io/badge/-Docker-05122A?style=flat&logo=docker)&nbsp;
-![Nginx](https://img.shields.io/badge/-Nginx-05122A?style=flat&logo=nginx&logoColor=009639)&nbsp;
-![Linux](https://img.shields.io/badge/-Linux-05122A?style=flat&logo=linux)&nbsp;
-
-### Testing & Development Tools
-![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
-![Postman](https://img.shields.io/badge/-Postman-05122A?style=flat&logo=postman)&nbsp;
-![VSCode](https://img.shields.io/badge/-VS%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
-![Selenium](https://img.shields.io/badge/-Selenium-05122A?style=flat&logo=selenium)&nbsp;
-
-## 📊 GitHub Analytics
-
+<h1 align="center">Hi, I'm Dmitriy Popov 👋</h1>
 <p align="center">
-<a href="https://github.com/deymonster">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=deymonster&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=deymonster&layout=compact&langs_count=8&theme=tokyonight"/>
-</a>
+  <b>Full-Stack Developer</b> · FastAPI / Django · Next.js / React Native · DevOps-minded
 </p>
 
-## 🏆 GitHub Trophies
-
 <p align="center">
-  <a href="https://github.com/deymonster">
-    <img src="https://github-profile-trophy.vercel.app/?username=deymonster&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4" alt="GitHub Trophies"/>
-  </a>
-</p>
-
-
-
-## 📈 Contribution Graph
-
-<p align="center">
-  <a href="https://github.com/deymonster">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=deymonster&theme=tokyo-night" alt="GitHub Contribution Graph"/>
-  </a>
-</p>
-
-
-## 🤝🏻 Connect with Me
-
-<p align="center">
-  <a href="mailto:deymonster@gmail.com">
-    <img src="https://img.shields.io/badge/-deymonster@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/>
-  </a>
-  <a href="https://t.me/Deymonster">
-    <img src="https://img.shields.io/badge/-@Deymonster-26A5E4?style=flat&logo=Telegram&logoColor=white"/>
-  </a>
+  <a href="mailto:deymonster@gmail.com"><img src="https://img.shields.io/badge/Email-deymonster%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://t.me/Deymonster"><img src="https://img.shields.io/badge/Telegram-@Deymonster-26A5E4?style=for-the-badge&logo=telegram&logoColor=white"/></a>
+  <img src="https://komarev.com/ghpvc/?username=deymonster&style=for-the-badge&color=7c3aed" alt="Profile views"/>
 </p>
 
 ---
+
+## 🚀 About me
+
+- I build production-focused web systems: **backend APIs**, **monitoring tools**, and **automation**.
+- I enjoy solving practical engineering problems: performance, observability, and reliability.
+- Current focus: **Next.js 15 + Prometheus + Go agents**, Python services, and secure infrastructure.
+
+## 🧭 Current focus (2025–2026)
+
+- 🖥️ **hw_next** — local network hardware monitoring platform (Next.js + metrics stack)
+- 🤖 **bot_voice / bot_stories** — bot-related automation projects
+- 🔐 **secure_lib / MicroLocker** direction — security-related tooling
+- 🛠️ **custom_windows_exporter** — custom monitoring exporter on Go
+
+## 🧱 Tech stack
+
+### Backend
+![Python](https://img.shields.io/badge/Python-05122A?style=flat&logo=python)&nbsp;
+![FastAPI](https://img.shields.io/badge/FastAPI-05122A?style=flat&logo=fastapi)&nbsp;
+![Django](https://img.shields.io/badge/Django-05122A?style=flat&logo=django)&nbsp;
+![DRF](https://img.shields.io/badge/DRF-05122A?style=flat&logo=django)&nbsp;
+![Go](https://img.shields.io/badge/Go-05122A?style=flat&logo=go)&nbsp;
+
+### Frontend
+![TypeScript](https://img.shields.io/badge/TypeScript-05122A?style=flat&logo=typescript)&nbsp;
+![Next.js](https://img.shields.io/badge/Next.js-05122A?style=flat&logo=next.js)&nbsp;
+![React](https://img.shields.io/badge/React-05122A?style=flat&logo=react)&nbsp;
+![React Native](https://img.shields.io/badge/React%20Native-05122A?style=flat&logo=react)&nbsp;
+
+### Data / Infra / Tools
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-05122A?style=flat&logo=postgresql)&nbsp;
+![Prisma](https://img.shields.io/badge/Prisma-05122A?style=flat&logo=prisma)&nbsp;
+![Docker](https://img.shields.io/badge/Docker-05122A?style=flat&logo=docker)&nbsp;
+![Nginx](https://img.shields.io/badge/Nginx-05122A?style=flat&logo=nginx)&nbsp;
+![Linux](https://img.shields.io/badge/Linux-05122A?style=flat&logo=linux)&nbsp;
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-05122A?style=flat&logo=githubactions)&nbsp;
+
+---
+
+## 📊 GitHub analytics
+
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=deymonster&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile views"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=deymonster&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=deymonster&layout=compact&theme=tokyonight&langs_count=8" />
 </p>
+
+<p align="center">
+  <img height="170" src="https://streak-stats.demolab.com?user=deymonster&theme=tokyonight&hide_border=false" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=deymonster&theme=tokyo-night&hide_border=true" alt="activity graph"/>
+</p>
+
+## 🏆 Achievements
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=deymonster&theme=tokyonight&margin-w=8&margin-h=8" alt="GitHub trophies"/>
+</p>
+
+---
+
+## 🤝 Contact
+
+- Email: **deymonster@gmail.com**
+- Telegram: **[@Deymonster](https://t.me/Deymonster)**
+
+> Open to interesting collaborations in backend/platform engineering and monitoring systems.
