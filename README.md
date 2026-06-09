@@ -1,10 +1,10 @@
 <div align="center">
 
-# Dmitry Popov
+# Dmitriy Popov
 
-### Reverse Engineer • Embedded Security Researcher • Systems Engineer
+### Systems & Full-Stack Engineer
 
-**Android Internals · Embedded Platforms · Automotive Security · Secure Software Delivery**
+**Secure platforms · Embedded systems · Android internals · Production web applications**
 
 [![Email](https://img.shields.io/badge/Email-deymonster%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:deymonster@gmail.com)
 [![Telegram](https://img.shields.io/badge/Telegram-@Deymonster-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Deymonster)
@@ -12,147 +12,57 @@
 
 </div>
 
----
 
-## About Me
+## About me
 
-I am a Reverse Engineer and Embedded Security Researcher focused on understanding how complex systems actually work.
+I design and build software where **system-level engineering**, **security**, and **modern product development** meet. My work ranges from embedded and Android platform internals to type-safe backend services, GraphQL APIs, and production-ready web interfaces.
 
-My work combines reverse engineering, Android internals, dynamic instrumentation, embedded platforms and secure software delivery. I spend most of my time analyzing proprietary systems, recovering undocumented functionality, studying operating system internals and building production-grade infrastructure around them.
-
-In recent years I have focused on Android/QNX automotive platforms, OTA update systems, telematics infrastructure, Android boot internals, runtime modification technologies and secure deployment pipelines.
+I focus on understanding systems end to end: from the operating system and process initialization layer to application architecture, deployment automation, observability, and the user experience.
 
 ```text
-Reverse Engineering
-        ↓
-Platform Internals
-        ↓
-Security Research
-        ↓
-Secure System Design
+Systems engineering  →  Security analysis  →  Backend architecture  →  Product delivery
 ```
 
-## Areas of Expertise
-
-* Reverse Engineering
-* Android Internals
-* Embedded Systems
-* Automotive Platforms
-* Dynamic Instrumentation
-* OTA Systems
-* Protocol Analysis
-* Runtime Modification
-* Secure Software Delivery
-
-## Selected Research & Engineering Projects
+## Selected engineering work
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### Android/QNX Automotive Platform Research
+### QNX systems engineering
 
-Reverse engineering of an Android/QNX-based automotive infotainment platform powered by Qualcomm Snapdragon 8155.
+Development and investigation of software for **QNX-based environments**, with attention to platform constraints, system services, reliability, and low-level integration.
 
-Research areas:
-
-• Android boot process
-• OTA update architecture
-• System services
-• Security mechanisms
-• Platform internals
-
-`Android` `QNX` `Qualcomm 8155` `OTA` `Embedded Systems`
+`QNX` `Embedded systems` `POSIX` `System integration`
 
 </td>
-
 <td width="50%" valign="top">
 
-### Runtime Localization Framework
+### Magisk source-level research
 
-Designed a Magisk-based runtime translation framework capable of localizing proprietary Android applications without modifying original APK files.
+Work with the **Magisk codebase** to understand Android modification mechanisms, boot-stage behavior, module internals, and interactions with the operating system.
 
-Features:
-
-• Runtime resource replacement
-• JSON-based dictionaries
-• OTA-delivered translations
-• Non-invasive deployment
-
-`Magisk` `Android Internals` `Runtime Hooking`
+`Android internals` `Magisk` `Boot process` `Source analysis`
 
 </td>
 </tr>
-
 <tr>
 <td width="50%" valign="top">
 
-### Telematics Protocol Reverse Engineering
+### Frida-based init analysis
 
-Analysis of proprietary T-Box communication protocols and mobile application traffic.
+Dynamic analysis of Android's **`init` process and initialization flow** using Frida: tracing runtime behavior, studying process interactions, and validating system-level hypotheses.
 
-Achievements:
-
-• HTTPS traffic interception
-• SSL pinning bypass
-• Protocol reconstruction
-• Command reproduction
-
-`Frida` `HTTP Toolkit` `Mobile Security` `Protocol Analysis`
+`Frida` `Dynamic instrumentation` `Android init` `Runtime analysis`
 
 </td>
-
 <td width="50%" valign="top">
 
-### Secure OTA Delivery Platform
+### Secure translation module delivery
 
-Building a secure deployment pipeline for remote delivery of embedded software modules.
+Architecture of a **safe, protected deployment process for a translation module**, covering artifact integrity, controlled delivery, environment isolation, and operational reliability.
 
-Stack:
-
-• Rust agent
-• NestJS GraphQL backend
-• Next.js frontend
-• MinIO object storage
-• Automated OTA updates
-
-`Rust` `mTLS` `GraphQL` `Secure Deployment`
-
-</td>
-</tr>
-
-<tr>
-<td width="50%" valign="top">
-
-### Android Init & Magisk Internals
-
-Source-level investigation of Android initialization process, SELinux policy generation and Magisk internals.
-
-Research topics:
-
-• init process
-• SEPolicy generation
-• boot sequence
-• module loading
-
-`Android Init` `SELinux` `Magisk`
-
-</td>
-
-<td width="50%" valign="top">
-
-### Dynamic Instrumentation & Binary Analysis
-
-Static and runtime analysis of Android native binaries using Ghidra and Frida.
-
-Activities:
-
-• Function recovery
-• Runtime tracing
-• Hook development
-• Behavior analysis
-
-`Ghidra` `Frida` `Reverse Engineering`
+`Secure delivery` `Deployment` `Hardening` `Automation`
 
 </td>
 </tr>
@@ -205,15 +115,15 @@ Activities:
 ## GitHub activity
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=deymonster&show_icons=true&theme=transparent&hide_border=true&title_color=6C63FF&icon_color=6C63FF&text_color=8B949E&include_all_commits=true&count_private=true" alt="Dmitry's GitHub statistics" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=deymonster&show_icons=true&theme=transparent&hide_border=true&title_color=6C63FF&icon_color=6C63FF&text_color=8B949E&include_all_commits=true&count_private=true" alt="Dmitriy's GitHub statistics" />
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=deymonster&layout=compact&theme=transparent&hide_border=true&title_color=6C63FF&text_color=8B949E&langs_count=8" alt="Most used languages" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=deymonster&bg_color=00000000&color=8B949E&line=6C63FF&point=6C63FF&area=true&area_color=6C63FF&hide_border=true" alt="Dmitry's contribution graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=deymonster&bg_color=00000000&color=8B949E&line=6C63FF&point=6C63FF&area=true&area_color=6C63FF&hide_border=true" alt="Dmitriy's contribution graph" />
 </div>
 
----
+
 
 <div align="center">
 
