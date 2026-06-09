@@ -12,7 +12,6 @@
 
 </div>
 
----
 
 ## About me
 
@@ -124,7 +123,7 @@ Architecture of a **safe, protected deployment process for a translation module*
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=deymonster&bg_color=00000000&color=8B949E&line=6C63FF&point=6C63FF&area=true&area_color=6C63FF&hide_border=true" alt="Dmitriy's contribution graph" />
 </div>
 
----
+
 
 <div align="center">
 
